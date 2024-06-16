@@ -1,6 +1,5 @@
 
-# Social Media Application (made with Spring Boot)
-#### Simple social media application I made to learn Spring framework.
+# Social Media web based Application
 
 
 ## About the project
